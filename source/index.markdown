@@ -15,15 +15,15 @@ In the past 12 weeks (3 months) I was able to go from 218lbs to 200lbs, as prese
 
 ![a brick](images/before-after.png "A brick")
 
-The weight loss diet the worked? **Simple calorie counting**.
+The weight loss diet that worked? **Simple calorie counting**.
 
 **TLDR:** I used an app called [LoseIt](https://www.loseit.com/) to estimate my calorie intake and to set a weight loss goal of 1.5 lbs per week.
 
 ## Back story
 
-As I mentioned before, I was in the military and was in a really good shape through out my time there. Towards the end of my service, I got an idea that I was too skinny, so I decided to train myself to over consume calories to "bulk up". It was an idiotic idea, but I was able to get away with it as long as I was still in the military. As soon as I got out, my weight ballooned to 235lbs.
+As I mentioned before, I was in the military and was in a really good shape through out my time there. Towards the end of my service I got an idea that I was too skinny, so I decided to train myself to over consume calories to "bulk up". It was an idiotic idea, but I was able to get away with it as long as I was still in the military. As soon as I got out, my weight ballooned to 235lbs.
 
-My wife and I went fishing shortly after and she took a picture of me sitting down without my shirt one. I've realized how fat I got, freaked out and worked my ass off for the next few months to get my weight back down to about 205 lbs. I was able to keep this weight for a while, mainly through going out for long runs a few times a week.
+My wife and I went fishing shortly after and she took a picture of me sitting down without my shirt on. I've realized how fat I got, freaked out and worked my ass off for the next few months to get my weight back down to about 205 lbs. I was able to keep this weight for a while, mainly through going out for long runs a few times a week.
 
 I've developed pain in my left knee during my time in the military. I saw treatment for it, and was advice to greatly reduce the amount of running that I did. I stopped running and began my struggle to keep my weight under control.
 
@@ -31,19 +31,19 @@ Over the years I've tried many things to keep my weight under control: body for 
 
 ## High Cholesterol Scare
 
-My wife and I have two little children and I have a history of heart disease in my family. My father died when he was only 45 (I am 36). His dead has died in his mid fifties, shortly before I was born and I never got to meet him.
+My wife and I have two little children and I have a history of heart disease in my family. My father died when he was only 45 (I am 36). His dad died in his mid fifties, shortly before I was born. I never got to meet him. My kids never got to meet my father.
 
-My cholesterol has spike in the past, and I was able to bring it down with diet and exercise. I was supposed to get it tested every year, but with little children I "forgot" to do it for a few years. I finally got it tested a bit over 3 months ago, and it was really high. We-are-going-to-have-to-put-you-on-meds high. My doctor recommended me to get some other blood to further confirm if I was at risk for heart disease, and this test also showed me as high risk. This really freaked me out.
+My cholesterol has spike in the past, and I was able to bring it down with diet and exercise. I was supposed to get it tested every year, but I "forgot" to do it for a few years.
+
+I finally got it tested a bit over 3 months ago and it was really high. We-are-going-to-have-to-put-you-on-meds high. My doctor recommended some other blood test and this test also showed me as high risk for heart disease. This really freaked me out.
 
 ## Falling into an Approach that Works
 
-I decided to get serious about losing weight. I've browsed a weight loss group on reddit.com and found a story of some person who was able to lose over 100lbs in a year, simply by calorie counting and doing light forms of exercise.
+I decided to get serious about losing weight. I browsed some weight loss group on reddit.com and found a story of some person who was able to lose over 100lbs in a year, simply by calorie counting and doing light forms of exercise.
 
-Next day, I ran into a friend of mine, who told me that he began calorie counting using an app called [LoseIt](https://www.loseit.com/). I've used this app in the past, but he told me that it became much more user friendly.
+Next day, I ran into a friend of mine, who told me that he began calorie counting using an app called [LoseIt](https://www.loseit.com/). I've used this app in the past, but he told me that it became much more user friendly since I last gave it a shot.
 
-I've downloaded the app and have been using it since. It is very user friendly. They have a large database of products, most things with a bar code already there. Most meals form big name restaurants are already there. Even many home made meals can be quickly looked up. Worse case, I fall back onto entering ingredients one by one, but even then I only have to do it one, and I can loop up my past meals and re-use them.
-
-I found the first two weeks to be the hardest. My daily budget is about 2000 calories. I believe i used to consume double of that. So first few weeks was a big shock to my system. I've set my initial goal to lose one pound a week. Once I got used to it, I increased my goal to 1.5 pounds per week and kept it at that since.
+I downloaded the app and been using it since. It IS very user friendly. They have a large database of products, most things with a bar code already there. Most meals form big name restaurants are already there. Even many home made meals can be quickly looked up. Worse case, I fall back onto entering ingredients one by one, but even then I only have to do it one time. I can loop up my past meals and re-use them.
 
 ## Key Takeaways
 
@@ -52,6 +52,10 @@ I found the first two weeks to be the hardest. My daily budget is about 2000 cal
 The math is simple. If you consume less calories than your body burns, your body will be force to burn fat causing a weight loss. People commonly call it Calories In/Calories Out (CICO) online.
 
 Number of calory deficiency needed to lose a pound of fat will vary depending on the source. The highest number I saw was 7000 calories deficit per pound of fat. Even with number that high, it's easy to lose a pound every two weeks (with 500 calorie deficit per day). This means that worse case a person can lose 26 pounds a year, a very significant number. In my experience, my daily deficit was a bit higher than 500 calories, and I was able to lose close to 1.5 pound per week.
+
+### Start Small
+
+I found the first two weeks to be the hardest. My daily budget is about 2000 calories. I believe I used to consume double of that. First few weeks was a big shock to my system. I've set my initial goal to lose one pound a week. Once I got used to it, I increased my goal to 1.5 pounds per week and kept it at that since.
 
 ### Trust the Process, Don't Check the Scale
 
