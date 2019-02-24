@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Free Weightloss Program That Works"
+title: "Free Weight Loss Program That Works"
 date: 2019-02-23 15:41
 comments: true
 sharing: true
